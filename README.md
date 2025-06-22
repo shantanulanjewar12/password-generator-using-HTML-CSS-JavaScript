@@ -3,7 +3,7 @@
 A **secure password-generator web application** built with **HTML5**, **CSS3**, and **Vanilla JavaScript**.  
 Users can instantly create random passwords of custom length and character-set, then copy them to the clipboard — all wrapped in a soft-glassmorphism UI (see screenshots below).
 
----https://github.com/shantanulanjewar12/password-generator-using-HTML-CSS-JavaScript/blob/3a95f5845d803367f262bf5e7bed72913248b32a/videoRec.mp4
+---
 
 ## 🚀 Features
 
